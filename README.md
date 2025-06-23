@@ -40,7 +40,7 @@ A sleek and functional Spotify web player clone built using **Vue 3**, **Vite**,
 
 ```bash
 # Clone the repo
-git clone https://github.com/John-Weeks-Dev/spotify-clone.git
+git clone https://github.com/alankrit98/spotify-clone.git
 cd spotify-clone
 
 # Install dependencies
